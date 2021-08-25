@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rick
-- 👀 I’m interested in Front-End Development.
-- 🌱 I’m currently learning TailwindCSS.
+- 👀 I’m interested in Front-End Development with a focus in React.
+- 🌱 I’m currently learning TypeScript.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: beyer.richard73@gmail.com.
 
