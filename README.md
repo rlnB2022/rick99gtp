@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rick
 - 👀 I’m interested in Front-End Development with a focus in React.
 - 🌱 I’m currently learning TypeScript.
-- 💞️ I’m looking to collaborate on open source projects.
+- 💞️ I’m looking for my first job in tech as a career-changer.
 - 📫 How to reach me: beyer.richard73@gmail.com.
 
 ---
